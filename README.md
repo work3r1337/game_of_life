@@ -16,7 +16,8 @@ To run the game, you need a C compiler that supports the "ncurses.h" library.
 1. Clone the repository to your local machine or simply download the .zip file.
 2. Compile the source code using a C compiler.
 3. Run the executable to start the game.
-4. Use the following controls to change speed of generation:
+4. Enter field manually or use datasets.
+5. Use the following controls to change speed of generation:
    - 'a' - Increase speed
    - 'z' - Decrease speed
    - 'space' - Quit the game
